@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.View {
+  border: 1px solid black;
+}
+
+.Title {
+  font-size: 2em;
+}
