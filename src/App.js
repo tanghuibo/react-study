@@ -1,4 +1,5 @@
 import './App.css';
+import React from 'react';
 import CloneElementTestView from './view/CloneElementTestView';
 import MultipleSelectView from './view/MultipleSelectView';
 import HighlightWordView from './view/HighlightWordView';

@@ -1,5 +1,6 @@
-import FatherComponent from "./components/FatherComponent";
-import ChildrenComponent from "./components/ChildrenComponent";
+import FatherComponent from './components/FatherComponent';
+import ChildrenComponent from './components/ChildrenComponent';
+import React from 'react';
 
 const CloneElementTestView = () => {
   return (
